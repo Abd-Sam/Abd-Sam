@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Abd-Sam
-- 👀 I’m interested in python,ai
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Abd-Sam/Abd-Sam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m Abdus Samad Khan(@Abd-Sam)
+- 👀 I am Interested In Python, AI/ML and Data Science.
+- 🌱 I’m currently learning Data Sciene
+- 📫 How to reach me email:kabdussamad92@gmail.com
+- ⚡ Fun fact: I also like research work and would love to collaborate
